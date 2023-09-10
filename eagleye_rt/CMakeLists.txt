@@ -15,6 +15,7 @@ find_package(catkin REQUIRED COMPONENTS
   sensor_msgs
   rtklib_msgs
   eagleye_msgs
+  ublox_msgs
   eagleye_navigation
   eagleye_coordinate
   geodesy
@@ -35,6 +36,7 @@ catkin_package(
   sensor_msgs
   rtklib_msgs
   eagleye_msgs
+  ublox_msgs
   eagleye_navigation
   eagleye_coordinate
   geodesy
